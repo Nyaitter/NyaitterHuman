@@ -17,7 +17,7 @@ manifest の `nyaitter_human` にバージョンを指定し、jsDelivr 経由�
 | --- | --- |
 | `blazeface.json` / `blazeface.bin` | 顔検出 |
 | `age.json` / `age.bin` | 年齢推定（SSR-Net） |
-| `gender.json` / `gender.bin` | SSR-Net 有効時に上流ローダーが必須として読み込むため収録（出力は使用しません） |
+| `gender.json` / `gender-ssrnet-imdb.bin` | SSR-Net 有効時に上流ローダーが必須として読み込むため収録（出力は使用しません） |
 
 ## ライセンス
 

@@ -1,1 +1,9 @@
-{"description":"Nyaitter 用にカスタムした Human（顔検出＋年齢推定のみ）の配信リポジトリ","license":"MIT","main":"dist/human.esm.js","module":"dist/human.esm.js","name":"nyaitter-human","type":"module","version":"0.1.0"}
+{
+  "description": "Nyaitter 用にカスタムした Human（顔検出＋年齢推定のみ）の配信リポジトリ",
+  "license": "MIT",
+  "main": "dist/human.esm.js",
+  "module": "dist/human.esm.js",
+  "name": "nyaitter-human",
+  "type": "module",
+  "version": "0.1.1"
+}
