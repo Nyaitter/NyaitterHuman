@@ -1,0 +1,12 @@
+{
+  "files": {
+    "dist/human.esm.js": "e7c85047fb9492bd983b43d5217b54e9fb44393966f4c5db7c7ced1fdaf1fd9e",
+    "models/age.bin": "6b7c758febd2855c337ce3895a8dcc7ecc7679363af8d7932dfd835d8dc9e81a",
+    "models/age.json": "846df6f4231311d8bb84fae9087a26051c872bd981254816386afad1cd21f8f0",
+    "models/blazeface.bin": "dc9a97fdc50bc43216554bdd69aa3e7b9361a519ee7bdd996a2f69a98a6f9b72",
+    "models/blazeface.json": "cd7bbfc078270572beb39f9e5ae67aadbd50b5e67cff37e6d4f6b3ea39312e5f",
+    "models/gender-ssrnet-imdb.bin": "dad6fc66a3124717fecba8ecd9a5c1e2f616f27937733407e52db4772b2f95c1",
+    "models/gender.json": "dcfadcadc5f8df0a37df8af8fe1cf0cfe87d812c3e56cfba99ab3c77dd6fcfe9"
+  },
+  "libraries": {}
+}
